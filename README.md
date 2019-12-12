@@ -6,8 +6,22 @@ I'm refreshing some info about CS knowledge and Software Development in general 
 
 - Big-O
 - Solving Problems
-- Data Structures
-- Algorithms.
+  - Examples
+  - Steps to Coding Interview
+- Data Structures:
+  - Arrays
+  - Stacks
+  - Queues
+  - Linked Lists
+  - Trees
+  - Tries
+  - Graphs
+  - Hash Tables
+- Algorithms:
+  - Sorting
+  - Dynamic Programming
+  - BFS + DFS (Searching)
+  - Recursion
 
 
-As always feel free to clone, fork or contribute to this repo!
+As always feel free to clone, fork or contribute to this repo with your own takes or examples to master the coding interview!
